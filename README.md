@@ -1,0 +1,2 @@
+# trainingrite
+Selenium Generic Codes
